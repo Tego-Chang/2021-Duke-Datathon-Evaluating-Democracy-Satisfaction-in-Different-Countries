@@ -1,5 +1,7 @@
 # 2021-Duke-Datathon-Evaluating-Democracy-Satisfaction-in-Different-Countries
 
+A team project collaborated with Cindy Chiu, Haoliang Jiang, and Vicki Nomwesigwa
+
 One of the core missions of Asian Barometer Survey is to strengthen intellectual and institutional
 capacity for research on democracy. This research is going to put their mission into
 practice. In the dataset released, for those variables which are considered important, we found
